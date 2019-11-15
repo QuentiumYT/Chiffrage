@@ -9,13 +9,13 @@
 
 # ✨ Chiffrage
 
->#### Allows to cypher a word or a sentence with a unique key you define (decryption included).
+>#### Allows to cypher a word or a sentence with a unique key you can define (decypher included).
 <br>
-![](https://quentium.fr/programs/Github/Chiffrage.gif)
+<p align="center"><img src="https://quentium.fr/programs/Github/Chiffrage.gif"></p>
 
 ## 📥 Installation
 
-- Download the source code [here](https://github.com/QuentiumYT/Chiffrage/archive/master.zip) and run `Chiffrage.pyw` on your computer (you will need socket, platform, psutil, wmi and ctypes modules)
+- Download the source code [here](https://github.com/QuentiumYT/Chiffrage/archive/master.zip) and run `Chiffrage.pyw` on your computer (no specific module required)
 - Download the 64bits compiled executable [here](https://quentium.fr/download.php?file=Chiffrage.exe)!
 - Download the 32bits compiled executable [here](https://quentium.fr/download.php?file=Chiffrage-32.exe)!
 
